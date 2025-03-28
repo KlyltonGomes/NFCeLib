@@ -16,3 +16,7 @@
 
 ---
 
+Observações:
+Fácil integração com projetos Spring.
+Configuração própria para evitar conflitos com Beans.
+Módulos desacoplados para personalização.
