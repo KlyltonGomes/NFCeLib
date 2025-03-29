@@ -1,0 +1,23 @@
+---
+name: "Criar uma nova funcionalidade na NFCeLib"
+about: "Use esse template para adicionar novas funcionalidades ou melhorias na NFCeLib."
+title: "[NFCeLib] Descreva o que você precisa"
+labels: enhancement
+assignees: ''
+
+---
+
+## Descrição da Tarefa
+
+Explique detalhadamente o que você precisa. O que está sendo proposto? Qual a melhoria? Quais os objetivos dessa task?
+
+## O que precisa ser feito?
+
+- [ ] Implementação do código
+- [ ] Testar a funcionalidade
+- [ ] Documentação do código
+- [ ] Criar exemplos de uso para desenvolvedores
+
+## Observações adicionais
+
+Se você tiver algum exemplo de código, print de erro ou link importante, adicione aqui para facilitar a compreensão da tarefa.
