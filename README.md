@@ -41,7 +41,6 @@ nfce-lib/
 🚀 Como Usar
 Adicione a lib como dependência Maven/Gradle (ou clone o projeto e instale localmente):
 
-<details> <summary>Maven</summary>
 <dependency>
   <groupId>br.com.nfcelib</groupId>
   <artifactId>nfce-core</artifactId>
