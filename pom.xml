@@ -8,7 +8,7 @@
 		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.klylton</groupId>
+	<groupId>br.com.nfcelib</groupId>
 	<artifactId>nfcelib</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>NFCeLib</name>
