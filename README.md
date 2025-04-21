@@ -24,29 +24,6 @@
 
 ## 🧱 Arquitetura Hexagonal
 
-A NFCeLib foi construída seguindo os princípios da **Arquitetura Hexagonal (Ports and Adapters)**, com separação clara entre regras de negócio (core) e mecanismos externos (adapters).
-
-### 🧩 Estrutura Modular
-
-```bash
-nfce-lib/
-├── nfce-core/         # Núcleo da aplicação - regras, validações e builders
-├── nfce-model/        # Entidades, enums e validações do domínio
-├── nfce-xml/          # Geração de XML via XSDs estaduais
-├── nfce-signature/    # Assinatura digital e certificados
-├── nfce-soap/         # Comunicação com SEFAZ (projeto futuro)
-├── nfce-danfe-web/    # Renderização de DANFE (projeto futuro)
-└── tests/             # Testes unitários e integração
-
-🚀 Como Usar
-Adicione a lib como dependência Maven/Gradle (ou clone o projeto e instale localmente):
-
-<dependency>
-  <groupId>br.com.nfcelib</groupId>
-  <artifactId>nfce-core</artifactId>
-  <version>1.0.0</version>
-</dependency>
-
 
 
 
